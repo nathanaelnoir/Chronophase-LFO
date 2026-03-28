@@ -3991,7 +3991,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4048,7 +4048,7 @@
 			(uuid "d38a9e1b-ba7c-4a29-8d60-84df3d97626b")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C8")
 					(unit 1)
@@ -4121,7 +4121,7 @@
 			(uuid "954dc383-1436-45b5-ab0a-25c82f8c1da1")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR031")
 					(unit 1)
@@ -4141,7 +4141,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4198,7 +4198,7 @@
 			(uuid "4b4200a6-9c50-49c0-8a68-fba2c588e408")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C15")
 					(unit 1)
@@ -4271,7 +4271,7 @@
 			(uuid "954dc383-1436-45b5-ab0a-25c82f8c1da2")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR032")
 					(unit 1)
@@ -4346,7 +4346,7 @@
 			(uuid "7864d241-b291-49ee-a0ad-8bd7b5d120bf")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR038")
 					(unit 1)
@@ -4421,7 +4421,7 @@
 			(uuid "7864d241-b291-49ee-a0ad-8bd7b5d120c0")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR036")
 					(unit 1)
@@ -4441,7 +4441,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4496,7 +4496,7 @@
 			(uuid "37926b1c-f0cd-4d6f-aaeb-500e1850af4d")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "FB2")
 					(unit 1)
@@ -4516,7 +4516,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "527c14e7-af3a-4428-ae70-689d9b35142b")
@@ -4569,7 +4569,7 @@
 			(uuid "f4d02c81-a133-4634-ab70-159155304bc0")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "TP1")
 					(unit 1)
@@ -4589,7 +4589,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4646,7 +4646,7 @@
 			(uuid "b087f6c4-9a8c-43bc-a691-0b1cdaa9ca5e")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C14")
 					(unit 1)
@@ -4666,7 +4666,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4723,7 +4723,7 @@
 			(uuid "443d9482-42b5-4873-912f-b5e91ba450ed")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C12")
 					(unit 1)
@@ -4743,7 +4743,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4800,7 +4800,7 @@
 			(uuid "d38a9e1b-ba7c-4a29-8d60-84df3d97626c")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C10")
 					(unit 1)
@@ -4819,7 +4819,7 @@
 		(at 129.54 140.97 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4894,7 +4894,7 @@
 			(uuid "ba7ebc83-387e-4d1f-98b8-985c5635e23e")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "U2")
 					(unit 3)
@@ -4969,7 +4969,7 @@
 			(uuid "61fabd92-a425-4f43-8971-b0cadad7aa61")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR042")
 					(unit 1)
@@ -5043,7 +5043,7 @@
 			(uuid "f9dc2856-c10d-43b9-997e-de01dd1f193b")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR041")
 					(unit 1)
@@ -5117,7 +5117,7 @@
 			(uuid "1e1f7cac-5a22-4e34-abb4-be3bfe9d3226")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR043")
 					(unit 1)
@@ -5191,7 +5191,7 @@
 			(uuid "9c31b035-9dfa-427d-b486-eafe6467cb0f")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR035")
 					(unit 1)
@@ -5210,7 +5210,7 @@
 		(at 46.99 69.85 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "82a2cbc7-18e7-4c51-aaba-ee15ad6040c8")
@@ -5230,7 +5230,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 46.99 69.85 0)
 			(effects
 				(font
@@ -5306,7 +5306,7 @@
 			(uuid "60e0fda8-f24d-4dfd-b1ca-a6ed111a14b2")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "J5")
 					(unit 1)
@@ -5326,7 +5326,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5383,7 +5383,7 @@
 			(uuid "24798787-4de0-4c97-945e-7a59f58abe05")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C17")
 					(unit 1)
@@ -5458,7 +5458,7 @@
 			(uuid "df8a7cba-c195-48dd-931f-71de63260394")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR030")
 					(unit 1)
@@ -5477,7 +5477,7 @@
 		(at 57.15 142.24 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5500,7 +5500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 57.15 142.24 0)
 			(effects
 				(font
@@ -5552,7 +5552,7 @@
 			(uuid "ba7ebc83-387e-4d1f-98b8-985c5635e23f")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "U1")
 					(unit 3)
@@ -5626,7 +5626,7 @@
 			(uuid "2a9239b3-cee4-4f8f-819a-3f6ac4b0e94f")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#FLG02")
 					(unit 1)
@@ -5768,7 +5768,7 @@
 			(uuid "676aaf6c-25eb-4884-9c47-0da346e5e012")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR040")
 					(unit 1)
@@ -5842,7 +5842,7 @@
 			(uuid "9c31b035-9dfa-427d-b486-eafe6467cb10")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR037")
 					(unit 1)
@@ -5914,7 +5914,7 @@
 			(uuid "d1257c4a-31c9-4629-8c13-24bfc1021a6e")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#FLG01")
 					(unit 1)
@@ -5934,7 +5934,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5991,7 +5991,7 @@
 			(uuid "564309a0-a156-4416-a8f5-467a5bcdc835")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C16")
 					(unit 1)
@@ -6065,7 +6065,7 @@
 			(uuid "01f73a0b-b5a3-4003-9010-1158383d11cf")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR033")
 					(unit 1)
@@ -6085,7 +6085,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6140,7 +6140,7 @@
 			(uuid "d05a35cd-bbff-4c9a-9bed-be1dfdc0aec1")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "FB1")
 					(unit 1)
@@ -6160,7 +6160,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6214,7 +6214,7 @@
 			(uuid "0bfdd6e3-0b9f-430b-9ded-00271a79918a")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "TP2")
 					(unit 1)
@@ -6286,7 +6286,7 @@
 			(uuid "55154d3a-edad-4421-bf7c-bdf0d14a6487")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#PWR034")
 					(unit 1)
@@ -6306,7 +6306,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6360,7 +6360,7 @@
 			(uuid "78e9766a-f742-441e-82df-a7695c8d9138")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "TP3")
 					(unit 1)
@@ -6380,7 +6380,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6437,7 +6437,7 @@
 			(uuid "51ca6c2f-8eeb-4dbf-b014-50143f8be128")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C13")
 					(unit 1)
@@ -6457,7 +6457,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6511,7 +6511,7 @@
 			(uuid "2629711a-4b11-40e9-8148-0ae3315187f2")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "TP4")
 					(unit 1)
@@ -6530,7 +6530,7 @@
 		(at 76.2 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6585,7 +6585,7 @@
 			(uuid "4f638e4a-edca-4a71-b98b-4fa585a26479")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "FB3")
 					(unit 1)
@@ -6659,7 +6659,7 @@
 			(uuid "2452b97d-2670-4803-8e1b-32e4a8c86f9d")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "#FLG03")
 					(unit 1)
@@ -6679,7 +6679,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6736,7 +6736,7 @@
 			(uuid "c39a2212-40f2-42ae-ac4d-7cf5dafc3365")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C11")
 					(unit 1)
@@ -6756,7 +6756,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6813,7 +6813,7 @@
 			(uuid "c39a2212-40f2-42ae-ac4d-7cf5dafc3366")
 		)
 		(instances
-			(project ""
+			(project "Synced_LFO"
 				(path "/0124ec7f-ce8c-4d11-9a4b-6b8a0b3bcd3e/ae96ab4b-34eb-4fab-bc0d-5b970a07b467"
 					(reference "C9")
 					(unit 1)
