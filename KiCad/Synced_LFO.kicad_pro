@@ -541,14 +541,14 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "kicad-embed://Template with logo.kicad_wks"
+    "page_layout_descr_file": "C:/Users/eniederwieser/OneDrive - Fraunhofer Italia Research SCARL/Documents/MyKiCad/Eurorack-templates/Template with logo.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,

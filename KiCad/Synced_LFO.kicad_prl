@@ -47,7 +47,7 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000008_820000a6",
+    "visible_layers": "00000000_00000000_00000008_82000022",
     "zone_display_mode": 0
   },
   "git": {
@@ -85,15 +85,15 @@
       9
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
-      91,
+      243,
+      221,
+      137,
+      101,
+      137,
+      137,
+      137,
+      107,
+      137,
       10
     ],
     "custom_group_rules": [],
@@ -105,8 +105,8 @@
     "group_by_netclass": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
-    "sort_ascending": true,
-    "sorting_column": 0
+    "sort_ascending": false,
+    "sorting_column": 2
   },
   "open_jobsets": [],
   "project": {
