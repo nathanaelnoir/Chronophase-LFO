@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "3e637a86-dddb-45a6-9ce5-10174bfc9947")
 	(paper "A4")
+	(title_block
+		(title "Chronophase LFO")
+		(date "2026-04-01")
+		(rev "v1.0")
+		(company "© Dirty Dream – Nathanael Noir")
+	)
 	(lib_symbols
 		(symbol "+12V_2"
 			(power)

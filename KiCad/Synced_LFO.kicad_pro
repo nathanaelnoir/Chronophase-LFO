@@ -141,10 +141,6 @@
           ""
         ],
         [
-          "courtyards_overlap|8804000|69753000|00000000-0000-0000-0000-000061fdaf32|00000000-0000-0000-0000-000061fdafde",
-          ""
-        ],
-        [
           "silk_edge_clearance|28396549|389999|4db95d62-6525-470e-97e0-708d845ab364|899efb80-050a-41f1-a2c4-934aa17581b1",
           ""
         ],
@@ -154,10 +150,6 @@
         ],
         [
           "silk_edge_clearance|504999|671475|9191e720-376a-4784-8aeb-70037ac6bc5b|8ea03f56-943f-4e7f-9866-ad153b661787",
-          ""
-        ],
-        [
-          "silk_over_copper|14164460|28300000|6ddddf4c-f1d5-4bab-b0f3-45c6e506278b|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -201,23 +193,11 @@
           ""
         ],
         [
-          "silk_overlap|10514000|71500000|2a2bab8d-64b1-48ea-8597-a5066e4ea4d4|2aa0b65d-21e6-40f4-998f-94917da18f05",
-          ""
-        ],
-        [
-          "silk_overlap|26531936|64120215|994772e6-6b8f-4a17-8bf6-a4942a07657d|c609e119-263e-444f-8217-0b55544a2668",
-          ""
-        ],
-        [
           "silk_overlap|5600000|69650907|6edfaee1-2570-4630-97bc-31c2613373b5|e12e827e-36be-4503-8eef-6fc7e8bc5d49",
           ""
         ],
         [
           "silk_overlap|6831064|71500000|2a2bab8d-64b1-48ea-8597-a5066e4ea4d4|78fa28d0-256a-44b7-b87c-d987c4b95e91",
-          ""
-        ],
-        [
-          "silk_overlap|9044000|71500000|1909323a-0aad-45b4-8977-450b3fadf13e|2a2bab8d-64b1-48ea-8597-a5066e4ea4d4",
           ""
         ]
       ],
@@ -709,7 +689,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "kicad-embed://dirty dream template.kicad_wks"
+    "page_layout_descr_file": "kicad-embed://logo template.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -839,7 +819,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://logo template.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_adjust_passive_values": false,
