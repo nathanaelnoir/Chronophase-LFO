@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Chronophase LFO")
-		(date "2026-04-01")
-		(rev "v1.0")
+		(date "2026-04-17")
+		(rev "v1.1")
 		(company "© Dirty Dream – Nathanael Noir")
 	)
 	(lib_symbols
@@ -2717,7 +2717,7 @@
 		)
 		(uuid "2218bba0-0614-44f9-83c1-7f40ef6f8b75")
 	)
-	(text "Clocked Modulation LFO"
+	(text "CHRONOPHASE LFO "
 		(exclude_from_sim no)
 		(at 51.054 22.86 0)
 		(effects
@@ -3233,16 +3233,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 34.29) (xy 116.84 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2aba5213-6796-4a89-8c67-3c5ce7aaf343")
-	)
-	(wire
-		(pts
 			(xy 246.38 66.04) (xy 236.22 66.04)
 		)
 		(stroke
@@ -3533,7 +3523,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 25.4) (xy 110.49 27.94)
+			(xy 110.49 25.4) (xy 110.49 30.48)
 		)
 		(stroke
 			(width 0)
@@ -3543,7 +3533,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 31.75) (xy 114.3 31.75)
+			(xy 114.3 34.29) (xy 116.84 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3733,16 +3723,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 34.29) (xy 115.57 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bfb1db7-981d-41b2-a77b-3c563981dd33")
-	)
-	(wire
-		(pts
 			(xy 124.46 173.99) (xy 121.92 173.99)
 		)
 		(stroke
@@ -3863,7 +3843,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 35.56) (xy 110.49 44.45)
+			(xy 110.49 38.1) (xy 110.49 44.45)
 		)
 		(stroke
 			(width 0)
@@ -8425,6 +8405,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
 		(at 204.47 128.27 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8434,7 +8415,7 @@
 		(dnp no)
 		(uuid "44611f5b-bd2e-405e-858e-516e846bb692")
 		(property "Reference" "U3"
-			(at 207.01 132.588 0)
+			(at 207.01 123.952 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8444,7 +8425,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 207.01 134.874 0)
+			(at 207.01 121.666 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8918,6 +8899,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
 		(at 237.49 151.13 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8927,7 +8909,7 @@
 		(dnp no)
 		(uuid "73c92000-7f12-4def-94b0-8408c8708d1c")
 		(property "Reference" "U4"
-			(at 241.046 154.432 0)
+			(at 241.046 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8937,7 +8919,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 241.046 156.718 0)
+			(at 241.046 145.542 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9331,6 +9313,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
 		(at 132.08 171.45 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9340,7 +9323,7 @@
 		(dnp no)
 		(uuid "96c7d819-a30b-4b8d-aff9-7e489ecf7116")
 		(property "Reference" "U4"
-			(at 135.89 175.514 0)
+			(at 135.89 167.386 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9350,7 +9333,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 136.144 177.8 0)
+			(at 136.144 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9427,7 +9410,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 110.49 31.75 0)
+		(at 110.49 34.29 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9438,7 +9421,7 @@
 		(dnp no)
 		(uuid "a3276aee-8669-4415-8655-f30fd6f2b09a")
 		(property "Reference" "RV1"
-			(at 107.95 33.0201 0)
+			(at 107.95 35.5601 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9449,7 +9432,7 @@
 			)
 		)
 		(property "Value" "B100K"
-			(at 107.95 30.4801 0)
+			(at 107.95 33.0201 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9460,7 +9443,7 @@
 			)
 		)
 		(property "Footprint" "Eurorack:Potentiometer_Alpha_RD901F_Vertical_Alt"
-			(at 110.49 31.75 0)
+			(at 110.49 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9471,7 +9454,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 31.75 0)
+			(at 110.49 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9482,7 +9465,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 110.49 31.75 0)
+			(at 110.49 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
