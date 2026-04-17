@@ -1,6 +1,6 @@
 [![KiCad 9](https://img.shields.io/badge/KiCad-9-blue)](https://kicad.org)
-[![Schematic](https://img.shields.io/badge/Sch-unrev-blueviolet)](KiCad/Synced_LFO.kicad_sch)
-[![PCB v0.1](https://img.shields.io/badge/PCB-v0.1-blue)](KiCad/Synced_LFO.kicad_pcb)
+[![Schematic v1.1](https://img.shields.io/badge/Sch-v1.1-blueviolet)](KiCad/Synced_LFO.kicad_sch)
+[![PCB v1.1](https://img.shields.io/badge/PCB-v1.1-blue)](KiCad/Synced_LFO.kicad_pcb)
 [![PCBs: 1](https://img.shields.io/badge/PCBs-1-brightgreen)](KiCad/Synced_LFO.kicad_pcb)
 [![Format: Eurorack](https://img.shields.io/badge/Format-Eurorack-0093ff)](#)
 [![License: TBD](https://img.shields.io/badge/License-TBD-lightgrey)](#license--contributing)
@@ -24,7 +24,7 @@ Chronophase LFO is a clock-synced Eurorack modulation source with an Arduino Nan
 
 This repository contains the KiCad 9 design files for Chronophase LFO, a clocked modulation module for Eurorack. An external clock drives the LFO core, the four main controls adjust `WAVEFORM`, `AMP`, `PHASE`, and `MODULATION`, and the output stage provides `UP_Out`, `BP_Out`, and `BP_Inv_Out` on separate jacks.
 
-The current KiCad 9 project files are named `Synced_LFO`, and the top-level schematic title block still says `Clocked Modulation LFO`. The PCB title block currently shows revision `v0.1`, so that is the most concrete revision marker in the project as it stands.
+The current KiCad 9 project files are named `Synced_LFO`, and the top-level schematic title block still says `Clocked Modulation LFO`. The current documented revision for both the schematic and PCB is `v1.1`.
 
 The hardware clearly includes an `Arduino_Nano_v3.x`, but there is no firmware source in this repository at the moment, only the hardware design files.
 
